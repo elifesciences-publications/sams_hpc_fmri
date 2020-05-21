@@ -1,5 +1,5 @@
 # sams_hpc_fmri
-Data and analysis code for Trelle, Carr, Guerin, et al. (2020) eLife - 'Hippocampal and cortical mechanisms at retrieval explain variability in episodic remembering in older adults'.
+Data and analysis code for Trelle, Carr, Guerin, et al. (2020) eLife - 'Hippocampal and cortical mechanisms at retrieval explain variability in episodic remembering in older adults'.http://dx.doi.org/10.7554/eLife.55335
 
 # Directory Overview 
 
